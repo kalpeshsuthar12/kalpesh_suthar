@@ -33,7 +33,7 @@ const About = () => {
                     <div className="content">
                       <span>Email Us</span>
                       <br />
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
+                      <a href="mailto:kalpesh.suthar97@gmail.com">kalpesh.suthar97@gmail.com</a>
                     </div>
                   </div>
                   <div className="info-box-item">
@@ -41,7 +41,7 @@ const About = () => {
                     <div className="content">
                       <span>Make A Call</span>
                       <br />
-                      <a href="callto:+000(123)45688">+880 (123) 456 88</a>
+                      <a href="callto:+000(123)45688">+91 9694025065</a>
                     </div>
                   </div>
                 </div>
@@ -52,12 +52,12 @@ const About = () => {
                 <img src="assets/images/about/about.jpg" alt="About Me" />
                 <div className="about-btn btn-one wow fadeInRight delay-0-4s">
                   <img src="assets/images/about/btn-image1.png" alt="Image" />
-                  <h6>Experience Designer</h6>
+                  <h6>Full Stack Developer</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="about-btn btn-two wow fadeInRight delay-0-5s">
                   <img src="assets/images/about/btn-image2.png" alt="Image" />
-                  <h6>Mark J. Collins</h6>
+                  <h6>Kalpesh Suthar</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="dot-shape">

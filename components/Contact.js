@@ -11,18 +11,18 @@ const Contact = () => {
               <div className="section-title mb-40">
                 <span className="sub-title mb-15">Get In Touch</span>
                 <h2>
-                  Let’s Talk For your <span>Next Projects</span>
+                  Let’s Talk About <span> Next Idea</span>
                 </h2>
                 <p>
-                  Sed ut perspiciatis unde omnin natus totam rem aperiam eaque
-                  inventore veritatis
+                  Let's discuss your next big idea and turn it into reality
+                  together!
                 </p>
               </div>
               <ul className="list-style-two">
-                <li>5+ Years Of Experience</li>
-                <li>Professional Web Designer</li>
-                <li>Mobile Apps Design</li>
-                <li>Custom Design Support</li>
+                <li>3+ Years Of Experience</li>
+                <li>Professional Developer</li>
+                <li>Application Design</li>
+                <li>E-commerce Development</li>
               </ul>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Contact = () => {
                         name="name"
                         className="form-control"
                         defaultValue=""
-                        placeholder="Richard D. Hammond"
+                        placeholder="Kalpesh Suthar"
                         required=""
                         data-error="Please enter your Name"
                       />
@@ -64,7 +64,7 @@ const Contact = () => {
                         name="email"
                         className="form-control"
                         defaultValue=""
-                        placeholder="support@gmail.com"
+                        placeholder="kalpesh.suthar97@gmail.com"
                         required=""
                         data-error="Please enter your Email"
                       />
@@ -83,7 +83,7 @@ const Contact = () => {
                         name="phone_number"
                         className="form-control"
                         defaultValue=""
-                        placeholder="+880 (123) 456 88"
+                        placeholder="+91 9694025065"
                         required=""
                         data-error="Please enter your Phone Number"
                       />

@@ -35,11 +35,11 @@ const page = () => {
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
+                      <a href="mailto:kalpesh.suthar97@gmail.com">kalpesh.suthar97@gmail.com</a>
                     </li>
                     <li>
                       <i className="far fa-phone" />{" "}
-                      <a href="callto:+880(123)45688">+880 (123) 456 88</a>
+                      <a href="to:+919694025065">+91 9694025065</a>
                     </li>
                   </ul>
                 </div>
@@ -98,7 +98,7 @@ const page = () => {
                           name="email"
                           className="form-control"
                           defaultValue=""
-                          placeholder="support@gmail.com"
+                          placeholder="kalpesh.suthar97@gmail.com"
                           required=""
                           data-error="Please enter your Email"
                         />
@@ -117,7 +117,7 @@ const page = () => {
                           name="phone_number"
                           className="form-control"
                           defaultValue=""
-                          placeholder="+880 (123) 456 88"
+                          placeholder="+91 9694025065"
                           required=""
                           data-error="Please enter your Phone Number"
                         />

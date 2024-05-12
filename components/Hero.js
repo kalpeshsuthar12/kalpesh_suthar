@@ -2,9 +2,9 @@ import Link from "next/link";
 import Counter from "./Counter";
 
 const counterData = [
-  { id: 1, text: "Years Of Experience", value: "13", valueType: "plus" },
-  { id: 2, text: "Project Complete", value: "8", valueType: "k-plus" },
-  { id: 3, text: "Client Satisfactions", value: "99", valueType: "percent" },
+  { id: 1, text: "Years Of Experience", value: "3", valueType: "plus" },
+  { id: 2, text: "Project Complete", value: "30", valueType: "plus" },
+  { id: 3, text: "Client Satisfactions", value: "95", valueType: "percent" },
 ];
 
 const Hero = () => {
@@ -16,7 +16,7 @@ const Hero = () => {
             <div className="hero-content rmb-55 wow fadeInUp delay-0-2s">
               <span className="h2">Hello, i’m </span>
               <h1>
-                <b>Roy C. Jones</b> web designer
+                <b>Kalpesh Suthar</b> Full Stack Developer
               </h1>
               <p>
                 We denounce with righteous indignation dislike demoralized by

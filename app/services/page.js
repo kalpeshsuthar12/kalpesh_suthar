@@ -51,9 +51,9 @@ const ServicePage = () => {
                   </p>
                 </div>
                 <ul className="list-style-two pb-50">
-                  <li>5+ Years Of Experience</li>
-                  <li>Professional Web Designer</li>
-                  <li>Mobile Apps Design</li>
+                  <li>3+ Years Of Experience</li>
+                  <li>Professional Developer</li>
+                  <li>Application Design</li>
                 </ul>
                 <Link legacyBehavior href="/about">
                   <a className="theme-btn">
@@ -80,7 +80,7 @@ const ServicePage = () => {
       {/* What I Do Area end */}
       <Services extraClass={"bgc-black"} />
       {/* Pricing Area start */}
-      <Pricing extraClass={"pb-100"} />
+      {/* <Pricing extraClass={"pb-100"} /> */}
     </NoxfolioLayout>
   );
 };

@@ -91,16 +91,22 @@ const Footer1 = () => {
                 <h6 className="footer-title">Address</h6>
                 <ul>
                   <li>
-                    <i className="far fa-map-marker-alt" /> 55 Main Street, 2nd
-                    block, New York City
+                    <i className="far fa-map-marker-alt" /> 405, Anant Sky
+                    Apartment, Ranip, Ahmadabad, Gujarat 382480
+                  </li>
+                  <li>
+                    <i className="far fa-map-marker-alt" /> 255, Opposite S.P.
+                    Banglow, Sirohi, Rajasthan 307001
                   </li>
                   <li>
                     <i className="far fa-envelope" />{" "}
-                    <a href="mailto:support@gmail.com">support@gmail.com</a>
+                    <a href="mailto:kalpesh.suthar97@gmail.com">
+                      kalpesh.suthar97@gmail.com
+                    </a>
                   </li>
                   <li>
                     <i className="far fa-phone" />{" "}
-                    <a href="callto:+880(123)45688">+880 (123) 456 88</a>
+                    <a href="to:+919694025065">+91 9694025065</a>
                   </li>
                 </ul>
               </div>
@@ -116,7 +122,7 @@ const Footer1 = () => {
                 <p>
                   Copyright @{date},{" "}
                   <Link legacyBehavior href="/">
-                    Noxfolio
+                    Kalpeshsuthar.site
                   </Link>{" "}
                   All Rights Reserved
                 </p>
@@ -125,7 +131,12 @@ const Footer1 = () => {
             <div className="col-lg-6 text-lg-end">
               <ul className="footer-bottom-nav">
                 <li>
-                  <a href="#">Facebook</a>
+                  <a
+                    href="https://www.facebook.com/kalpesh.suthar97"
+                    target="_blank"
+                  >
+                    Facebook
+                  </a>
                 </li>
                 <li>
                   <a href="#">Twitter</a>
@@ -134,7 +145,13 @@ const Footer1 = () => {
                   <a href="#">Instagram</a>
                 </li>
                 <li>
-                  <a href="#">LinkedIn</a>
+                  <a
+                    href="https://www.linkedin.com/in/
+kalpesh-suthar-a28512141/"
+                    target="_blank"
+                  >
+                    LinkedIn
+                  </a>
                 </li>
               </ul>
             </div>
@@ -261,7 +278,7 @@ export const Footer2 = () => {
             <p>
               Copyright @{date},{" "}
               <Link legacyBehavior href="/">
-                Noxfolio
+                Kalpeshsuthar.site
               </Link>{" "}
               All Rights Reserved
             </p>

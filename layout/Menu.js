@@ -101,9 +101,6 @@ export const OnePageMenu = () => {
         <a href="#resume">Resume</a>
       </li>
       <li>
-        <a href="#services">services</a>
-      </li>
-      <li>
         <a href="#skills">skills</a>
       </li>
       <li>

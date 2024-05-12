@@ -152,7 +152,7 @@ const Index2 = () => {
       <Resume2 />
       {/* Resume Area end */}
       {/* Services Area start */}
-      <Services2 />
+      {/* <Services2 /> */}
       {/* Services Area end */}
       {/* Skill Area start */}
       <Skill2 />
@@ -361,7 +361,7 @@ const Index2 = () => {
       </section>
       {/* Awward Area end */}
       {/* Pricing Area start */}
-      <Pricing2 />
+      {/* <Pricing2 /> */}
       {/* Pricing Area end */}
       {/* Client Logo start */}
       <Clients2 />

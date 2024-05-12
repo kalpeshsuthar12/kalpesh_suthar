@@ -24,7 +24,7 @@ export default function HomeOnePage() {
       <Resume />
       {/* Resume Area end */}
       {/* Services Area start */}
-      <Services />
+      {/* <Services /> */}
       {/* Services Area end */}
       {/* Skill Area start */}
       <Skill />
@@ -36,7 +36,7 @@ export default function HomeOnePage() {
       <Testimonial />
       {/* Testimonial Area end */}
       {/* Pricing Area start */}
-      <Pricing />
+      {/* <Pricing /> */}
       {/* Pricing Area end */}
       {/* Contact Area start */}
       <Contact />

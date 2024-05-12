@@ -57,7 +57,7 @@ const About = () => {
             <div className="col-xl-5 col-lg-6">
               <div className="about-right-part wow fadeInLeft delay-0-3s">
                 <div className="experience-years">
-                  <b>25+</b>
+                  <b>3+</b>
                   <h5>Years Of Experience</h5>
                 </div>
                 <div className="about-btn one wow fadeInRight delay-0-4s">
@@ -67,7 +67,7 @@ const About = () => {
                 </div>
                 <div className="about-btn two wow fadeInRight delay-0-5s">
                   <img src="assets/images/about/btn-image2.png" alt="Image" />
-                  <h6>Mark J. Collins</h6>
+                  <h6>Kalpesh Suthar</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="about-btn three wow fadeInRight delay-0-4s">
@@ -106,7 +106,7 @@ const About = () => {
       </section>
       {/* About Page Area end */}
       {/* Services Area start */}
-      <Services extraClass={"bgc-black"} />
+      {/* <Services extraClass={"bgc-black"} /> */}
       {/* Services Area end */}
       {/* FAQs Area start */}
       <section id="faqs" className="faqs-area py-130 rpy-100 rel z-1">

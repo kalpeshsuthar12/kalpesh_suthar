@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Resume = () => {
   return (
-    <section id="resume" className="resume-area pt-130 rpt-100 rel z-1">
+    <section id="resume" className="resume-area pt-100 pb-100 rpt-100 rel z-1">
       <div className="container">
         <div className="row">
           <div className="col-lg-3">

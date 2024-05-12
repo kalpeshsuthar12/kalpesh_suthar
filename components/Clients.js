@@ -8,7 +8,7 @@ const Clients = () => {
           <div className="col-xl-12">
             <div className="section-title text-center pt-5 mb-65 wow fadeInUp delay-0-2s">
               <h6>
-                I’ve <span>1253+ Global Clients</span> &amp; lot’s of Project
+                I’ve <span>30+ Clients</span> &amp; lot’s of Project
                 Complete
               </h6>
             </div>

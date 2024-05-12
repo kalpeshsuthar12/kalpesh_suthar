@@ -11,9 +11,9 @@ import Skill from "@/components/Skill";
 import Testimonial from "@/components/Testimonial";
 import NoxfolioLayout from "@/layout/NoxfolioLayout";
 
-export default function HomeOnePage() {
+export default function Home() {
   return (
-    <NoxfolioLayout onePageMenu={true}>
+    <NoxfolioLayout>
       {/* Hero Section Start */}
       <Hero />
       {/* Hero Section End */}
